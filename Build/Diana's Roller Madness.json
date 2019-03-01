@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Diana Roller Madness",
+"dataUrl": "Diana's Roller Madness.data.unityweb",
+"wasmCodeUrl": "Diana's Roller Madness.wasm.code.unityweb",
+"wasmFrameworkUrl": "Diana's Roller Madness.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
